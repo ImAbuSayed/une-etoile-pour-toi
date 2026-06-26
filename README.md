@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-etoile-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Une Étoile Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-etoile-pour-toi/) |
+| **Get License** | [Commercial Licensing for Une Étoile Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-etoile-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, t'es la seule que je vois
+> C'est une étoile pour toi, yeah, just you and moi
+> Le tempo de mon cœur bat au rythme de tes pas
+> Laisse-moi t'emmener loin, viens, ne résiste pas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
