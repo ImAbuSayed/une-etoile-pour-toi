@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-etoile-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Une Étoile Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-etoile-pour-toi/) |
+| **Get License** | [Obtain a Music License for Une Étoile Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-etoile-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8920d7318a63da69b8d30aaebc29bbbb12f789ec3203b423eac337d6d257a5d5` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
